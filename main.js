@@ -185,9 +185,9 @@ function ScrollToChange() {
 			duration: 1,
 		})
 		gsap.to(meshes.photo.scale, {
-			x: 0.002,
-			y: 0.002,
-			z: 0.002,
+			x: 0.0012,
+			y: 0.0012,
+			z: 0.0012,
 			duration: 4,
 			ease: 'power3.inOut',
 		})
